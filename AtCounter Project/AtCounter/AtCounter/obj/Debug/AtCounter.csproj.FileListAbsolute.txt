@@ -1,0 +1,7 @@
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\obj\Debug\AtCounter.csprojAssemblyReference.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\obj\Debug\AtCounter.csproj.CoreCompileInputs.cache
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\bin\Debug\AtCounter.exe.config
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\bin\Debug\AtCounter.exe
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\bin\Debug\AtCounter.pdb
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\obj\Debug\AtCounter.exe
+C:\Users\mattt\Desktop\School Work\Computer Programs\C#\Personal Projects\AtCounter\AtCounter\obj\Debug\AtCounter.pdb
