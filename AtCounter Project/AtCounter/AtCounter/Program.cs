@@ -57,7 +57,9 @@ namespace AtCounter
                          }
                      }
                  }
-                 num.printmatrix();   //Prints randomly generated 2D array.
+                num.printmatrix();   //Prints randomly generated 2D array.
+                Console.WriteLine("\nPress enter to exit the program.");
+                Console.ReadLine();
              }
          }
          private static int checkInt(string a)
